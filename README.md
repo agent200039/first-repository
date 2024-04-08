@@ -1,2 +1,2 @@
 # first-repository
-my first repository by SSL
+my first repository @ SSL
